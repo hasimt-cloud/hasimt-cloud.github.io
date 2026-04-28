@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>https://www.exampledomain.com/index.html</loc>
+   </url>
+
+   <url>
+      <loc>https://www.exampledomain.com/chapter1.html</loc>
+   </url>
+
+   <url>
+      <loc>https://www.exampledomain.com/chapter2.html</loc>
+   </url>
+
+   <url>
+      <loc>https://www.exampledomain.com/chapter3.html</loc>
+   </url>
+
+   <url>
+      <loc>https://www.exampledomain.com/chapter4.html</loc>
+   </url>
+
+   <url>
+      <loc>https://www.exampledomain.com/chapter5.html</loc>
+   </url>
+
+   <url>
+      <loc>https://www.exampledomain.com/chapter6.html</loc>
+   </url>
+
+</urlset>
