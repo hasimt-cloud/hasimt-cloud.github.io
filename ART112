@@ -44,28 +44,28 @@
     </ul>
   </nav>
 
-  <main id="content">
+<main id="content">
     <section>
       <h2>Digital Artwork &amp; Design Gallery</h2>
-      <p>Alongside my background in emergency medical training and CPR education, I create digital illustrations, vector logos, and poster designs. All web graphics below are formatted at 72 DPI for screen display.</p>
+      <p>Alongside my background in emergency medical training and CPR education, I create digital illustrations, vector logos, and poster designs. All graphics below are formatted at 72 DPI for web display.</p>
     </section>
 
     <section>
-      <h3>Project 1: [Insert Title — e.g., "Ashfall" Movie Poster]</h3>
-      <p>[1–2 sentence description of the piece, tools used like Affinity Designer, and design choices.]</p>
-      <img src="images/art1.jpg" alt="Description of artwork 1">
+      <h3>Project 1: "Ashfall" Sci-Fi Horror Movie Poster</h3>
+      <p>A theatrical movie poster design featuring original creature illustration, atmospheric lighting, festival laurels, and custom billing block typography, shown alongside its initial concept sketch.</p>
+      <img src="images/ashfall.jpg.jpg" alt="Ashfall movie poster design and concept sketch">
     </section>
 
     <section>
-      <h3>Project 2: [Insert Title — e.g., Custom Vector Logo]</h3>
-      <p>[1–2 sentence description of the logo concept, typography, and color palette.]</p>
-      <img src="images/art2.jpg" alt="Description of artwork 2">
+      <h3>Project 2: "The Great Wave off Kanagawa" Vector Study</h3>
+      <p>A digital vector recreation of Katsushika Hokusai's iconic 1831 woodblock print, focusing on clean linework, layered wave forms, and color matching.</p>
+      <img src="images/great-wave.jpg.jpg" alt="Vector recreation of The Great Wave off Kanagawa">
     </section>
 
     <section>
-      <h3>Project 3: [Insert Title — e.g., Digital Illustration]</h3>
-      <p>[1–2 sentence description of the illustration and composition.]</p>
-      <img src="images/art3.jpg" alt="Description of artwork 3">
+      <h3>Project 3: Mahi Ahi Ono Grindz Food Truck Logo</h3>
+      <p>Brand identity and vector logo design created for a local Hawaiian food truck concept, featuring custom illustrations of a mahi-mahi and an ahi framing clean typography and a compass emblem.</p>
+      <img src="images/mahi-ahi-logo.jpg.jpg" alt="Mahi Ahi Ono Grindz Food Truck logo design">
     </section>
 
     <section class="next-page">
